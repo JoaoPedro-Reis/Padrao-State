@@ -1,0 +1,1 @@
+padrao state implementado em programa de controle de estado de funcionario de uma empresa<img width="795" height="430" alt="Captura de tela 2026-10-08 202456" src="https://github.com/user-attachments/assets/76c437c5-2f30-4182-b8c6-c4063cf982c9" />
